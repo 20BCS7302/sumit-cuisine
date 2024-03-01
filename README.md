@@ -1,4 +1,4 @@
-# Shaif's Cuisine
+# Sumit's Cuisine
 
 **A HTML CSS Project**. Mede with ♥ by web cifar community <br>
 live Preview: [Click Me](http://shaif-s-cuisine.netlify.app)
